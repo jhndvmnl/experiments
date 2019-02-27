@@ -1,4 +1,4 @@
-# Tutorials Dev
+# Tutorials in Development
 
 ## BEM - [block]__[element]--[modifier]
 
